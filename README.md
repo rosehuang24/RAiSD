@@ -1,7 +1,5 @@
 # RAiSD
 
 this is a senten...modifications!
-lets make a pull request
 
-
-Now I made a modification on this pull
+I deleted both to make it "resolved" because apparently I can't just delete one and mark it resolved
